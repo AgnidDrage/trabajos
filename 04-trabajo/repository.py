@@ -1,2 +1,2 @@
 class Repository:
-    person = dict()
+    person = {}
